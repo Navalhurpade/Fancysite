@@ -1,0 +1,115 @@
+body {
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  position: relative;
+}
+#small_me{
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  z-index: 5;
+  left: 5px;
+  top: 15px;
+}
+.top_container{
+        background-color: #E4F9F5;
+        position: relative;
+        left: 0;
+        text-align: center;
+        padding-top: 100px;
+        padding-bottom: 0;
+}
+
+h1 {
+  font-weight:500;
+  font-size: 105px;
+  font-family: 'Sacramento', cursivel;
+  color:   #01A9B4;
+  position: absolute;
+  left: 250px;
+}
+#sub_hedding{
+ color:   #01A9B4;
+ font-weight: 300;
+ padding-top: 235px;
+ font-family: 'Merriweather Sans', sans-serif;
+}
+h2{
+  font-weight: 500;
+  font-family: 'Merriweather Sans', sans-serif;
+   color:   #01A9B4;
+}
+
+h3{
+  font-weight: 500;
+  font-family: 'Merriweather Sans', sans-serif;
+   color:   #01A9B4;
+}
+h5{
+ font-family: 'Merriweather Sans', sans-serif;
+ color: #01A9B4;
+ font-weight: 400;
+ position: absolute;
+ top: 10px;
+ left: 120px;
+ font-size: 30px;
+}
+.p {
+  font-size: 24px;
+  font-family: 'Crimson Text', serif;
+}
+
+#top_leftcloud {
+  height: 60px;
+  width: 180px;
+  position: absolute;
+  opacity: 0.8;
+  top: 160px;
+  left: 105px;
+  z-index: 1;
+}
+
+#top_rightcloud {
+  height: 60px;
+  width: 180px;
+  position: absolute;
+  opacity: 0.8;
+  z-index: 1;
+  top: 350px;
+  right: 60px;
+}
+
+#bottom_cloud {
+  height: 60px;
+  width: 180px;
+  bottom: 50px;
+  margin-right: 300px;
+  opacity: 0.8;
+}
+.img{
+        height: 300px;
+        width: 300px;
+}
+
+#mountain {
+        position: relative;
+        z-index: 1;
+        height: 650px;
+        width: 95%;
+        bottom: 0;
+}
+.hr{
+        border: none;
+        border-top: dotted;
+        width: 15%;
+        border-width: 10px;
+        color: grey;
+        
+}
+.contact{
+        font-size: 15px;
+}
+.footer-link{
+ font-size: 45px; 
+ color: #3282B8;
+}
